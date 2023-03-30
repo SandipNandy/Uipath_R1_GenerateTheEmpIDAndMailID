@@ -291,3 +291,4 @@
     <ui:MessageBox Caption="{x:Null}" ChosenButton="{x:Null}" AutoCloseAfter="00:00:00" DisplayName="Message Box" sap:VirtualizedContainerService.HintSize="481.6,95.2" sap2010:WorkflowViewState.IdRef="MessageBox_2" Text="[empEmail]" />
   </Sequence>
 </Activity>
+//EMAIL ID
