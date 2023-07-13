@@ -1,4 +1,3 @@
-
 {
   "name": "Robot_1_GenerateTheEmpIDAndEmailID",
   "description": "Robot_1_GenerateTheEmpIDAndEmailID",
@@ -9,7 +8,6 @@
     "UiPath.System.Activities": "[22.10.3]",
     "UiPath.Testing.Activities": "[22.10.0]",
     "UiPath.UIAutomation.Activities": "[22.10.3]"
-    
   },
   
   "webServices": [],
