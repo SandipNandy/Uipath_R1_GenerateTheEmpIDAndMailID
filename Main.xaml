@@ -2,6 +2,7 @@
 <TextExpression.NamespacesForImplementation> 
 
 <scg:List x:TypeArguments="x:String" Capacity="28">
+
 <x:String>System.Activities</x:String>
 
       <x:String>System.Activities.Statements</x:String>
